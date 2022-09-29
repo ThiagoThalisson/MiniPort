@@ -9,7 +9,6 @@ import PortfolioPreview from "../components/PortfolioPreview.astro"
 const projects = await Astro.glob("./project/**/*.md")
 const featuredProject = projects[0]
 
-console.log()
 // Full Astro Component Syntax:
 // https://docs.astro.build/core-concepts/astro-components/
 ---
@@ -115,9 +114,16 @@ console.log()
 
       .roles {
         display: flex;
+        flex-direction: column;
         flex-wrap: wrap;
         gap: 0.5em;
         font-size: var(--f-d1);
+      }
+
+      .projects {
+        display: flex;
+        flex-direction: row;
+        gap: 1rem;
       }
 
       .role {
@@ -170,7 +176,7 @@ console.log()
 
       .desc {
         font-size: var(--f-u1);
-        margin-top: 1.5rem;
+        margin-top: 1rem;
         margin-bottom: 0;
       }
 
@@ -211,25 +217,22 @@ console.log()
           <small class="subtitle">Mini Portfolio</small>AtomicFeasT
         </h1>
         <div class="roles">
-          <span class="role"
-            ><a href={`project/${projects[0]?.frontmatter.url}`}
-              >{projects[0]?.frontmatter.title}
-            </a>
-          </span>
+          <div class="projects">
+            <span class="role"
+              ><a href={`project/${projects[0]?.frontmatter.url}`}
+                >{projects[0]?.frontmatter.title}
+              </a>
+            </span>
 
-          <span class="role"
-            ><a href={`project/nested/${projects[1]?.frontmatter.url}`}
-              >{projects[1]?.frontmatter.title}
-            </a>
-          </span>
-          <span class="role"
-            >🎤 Reader <span class="invert">🎤 Reader</span>
-          </span>
-          <span class="role"
-            >✏️ Writer <span class="invert">✏️ Writer</span>
-          </span>
+            <span class="role"
+              ><a href={`project/nested/${projects[1]?.frontmatter.url}`}
+                >{projects[1]?.frontmatter.title}
+              </a>
+            </span>
+          </div>
+
+          <p class="desc">Believes in cats and physics.</p>
         </div>
-        <p class="desc">Believes in cats and physics.</p>
       </div>
     </header>
     <main class="wrapper">

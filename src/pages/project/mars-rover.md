@@ -13,12 +13,12 @@ tags:
   - branding
 ---
 
-Rubber cheese mascarpone cut the cheese. Jarlsberg parmesan cheesy grin cream cheese port-salut stinking bishop ricotta brie. Roquefort when the cheese comes out everybody's happy goat cheese triangles stilton cheese and biscuits goat babybel. Bocconcini roquefort queso danish fontina pecorino.
+(CNN) A ilha italiana da Sardenha fica no meio do Mar Tirreno. Cercada por uma costa de 1.849 quilômetros de praias de areia branca e águas cor de esmeralda, a paisagem se eleva para formar colinas e montanhas impermeáveis. É nesse cenário paradisíaco que os pastores produzem o casu marzu, um queijo infestado de larvas que, em 2009, foi declarado pelo Guinness Book como o mais perigoso do mundo.
 
-Smelly cheese stinking bishop roquefort. Jarlsberg cheese triangles cheese strings cheesy feet gouda dolcelatte say cheese cow. Cheddar edam cream cheese cheesy feet cow stinking bishop airedale emmental. Boursin cow bavarian bergkase mozzarella cheese and biscuits manchego when the cheese comes out everybody's happy cream cheese. Cheese on toast st. agur blue cheese croque monsieur halloumi.
+Em sardo, casu marzu significa queijo podre. Ele é fabricado a partir do queijo pecorino, geralmente feito com leite de ovelha. Com a ajuda das moscas do queijo (Piophila casei), que colocam seus ovos em rachaduras que se formam no alimento, o produto chega a um estágio de quase decomposição.
 
-Fromage frais jarlsberg st. agur blue cheese. Cut the cheese cheese slices monterey jack monterey jack cauliflower cheese the big cheese cheese on toast the big cheese. Queso paneer cheese triangles bocconcini macaroni cheese cheese and biscuits gouda chalk and cheese. Pecorino when the cheese comes out everybody's happy feta cheese and wine danish fontina melted cheese mascarpone port-salut. When the cheese comes out everybody's happy pecorino cottage cheese.
+As larvas eclodem, abrem caminho pela pasta, digerem proteínas durante processo e transformam o produto em um queijo cremoso e macio. Depois de pronto, é hora de abrir a tampa – quase intocada pelos vermes – para tirar uma colher da cremosa iguaria.
 
-Caerphilly parmesan manchego. Bocconcini cheesecake when the cheese comes out everybody's happy cheesy grin chalk and cheese smelly cheese stinking bishop cheese on toast. Bocconcini swiss paneer mascarpone cheesy grin babybel when the cheese comes out everybody's happy mozzarella. Cheese and biscuits mascarpone caerphilly gouda cheeseburger cheddar.
+Não é um momento para quem têm estômago fraco. Nesse ponto, as larvas que estão dentro começam a se contorcer freneticamente. Alguns moradores colocam o queijo em uma centrífuga para mesclar os vermes. Outros gostam ao natural. Eles abrem a boca e comem tudo. Se conseguir superar o nojo, o marzu tem um sabor intenso e picante. O gosta dura horas na boca.
 
-Cheese and biscuits cheesy grin roquefort. Ricotta cheese slices hard cheese jarlsberg cheesecake taleggio fondue mascarpone. Stinking bishop stilton when the cheese comes out everybody's happy paneer airedale everyone loves cheese on toast cheese slices. Ricotta cut the cheese cheese triangles babybel cream cheese ricotta.
+Enquanto uns dizem que o queijo é afrodisíaco, há quem argumente que ele pode ser perigoso para a saúde, uma vez que larvas podem sobreviver e provocar problemas no intestino. Porém, até agora, nenhum caso desse tipo foi relacionado.
